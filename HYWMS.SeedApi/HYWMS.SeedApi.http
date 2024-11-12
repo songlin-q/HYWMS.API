@@ -1,0 +1,6 @@
+@HYWMS.SeedApi_HostAddress = http://localhost:5252
+
+GET {{HYWMS.SeedApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

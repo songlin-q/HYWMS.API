@@ -1,0 +1,6 @@
+@HYWMS.API_HostAddress = http://localhost:5037
+
+GET {{HYWMS.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
